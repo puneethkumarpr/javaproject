@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "run from the dscript"
+echo "run from the script" >> file1
